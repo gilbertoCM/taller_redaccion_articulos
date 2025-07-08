@@ -23,7 +23,7 @@ A continuación se listan los ejercicios diseñados para guiarte paso a paso en 
 
 | Nº | Ejercicio                                                                                          | Instrucciones                                                                                                   |
 
-|----|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+|----|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 
 | 1  | 🔍 **Revisión bibliográfica y selección de artículos**                   | - Busca artículos relacionados con tu tema de interés.  <br> - Verifica que estén en el **Journal Citation Reports (JCR)**.  <br> - Crea una tabla con:  <br> &nbsp;&nbsp;• Título del artículo  <br> &nbsp;&nbsp;• Revista y factor de impacto  <br> &nbsp;&nbsp;• Tipo de acceso (Abierta, Híbrida o Cerrada)  <br> &nbsp;&nbsp;• Nota personal sobre relevancia |
 
