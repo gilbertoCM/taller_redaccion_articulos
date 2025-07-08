@@ -12,7 +12,10 @@ ejercicios guiados y recursos complementarios para ayudarte a redactar tu primer
 - **`MaterialExtra/`**: Recursos adicionales de apoyo (lecturas, plantillas, guías de estilo, etc.).
 
 ---
+## videos
+📺 Puedes ver videos con explicaciones en esta [lista de reproducción en YouTube](https://youtube.com/playlist?list=PLXH__GwZBiwVZhJ7oWaFnKFNEzIq5M0u_&si=9_QqNWqPPvXwywro).
 
+---
 
 ## ✅ Ejercicios del curso
 
