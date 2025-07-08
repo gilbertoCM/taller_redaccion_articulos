@@ -84,3 +84,15 @@ Correo: [gcardoso@cmarl.unam.mx](mailto:gcardoso@cmarl.unam.mx)
 🔗 [Contacto en Blinq](https://blinq.me/YKZ9U8mqdr8n?bs=db)
 
 
+## 📚 License
+
+This project is licensed under:
+  
+[![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+  
+
+You are free to share and adapt the materials for **non-commercial purposes**, as long as attribution is provided.
+
+  
+
+---
