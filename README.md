@@ -13,7 +13,6 @@ ejercicios guiados y recursos complementarios para ayudarte a redactar tu primer
 
 ---
 
-## ✅ Tabla de ejercicios
 
 ## ✅ Ejercicios del curso
 
