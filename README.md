@@ -74,6 +74,26 @@ A continuación se listan los ejercicios diseñados para guiarte paso a paso en 
 - Asegúrate de que tu guion esté listo para la redacción completa del artículo.
 
 
+## 6. 📊 Redacción de los resultados detallados
+
+- Especifica las **figuras y tablas** que vas a incluir.  
+  - ¿Qué muestran? ¿Qué tipo de gráfico usarás?  
+  - ¿Qué variable o comparación resalta cada uno?
+
+- Asegura la **coherencia con tu metodología** y tu **pregunta de investigación**.
+
+- Presenta los resultados con claridad, **sin interpretaciones**.  
+  - Usa títulos claros y pies explicativos.  
+  - Incluye unidades, escalas y menciona si hay significancia estadística.
+
+**Ejemplo**:  
+- Figura 1. Boxplots de oxígeno disuelto por temporada.  
+- Figura 2. Series temporales de OD y temperatura.  
+- Tabla 1. Resultados del test de Mann-Whitney entre escenarios.
+
+📌 Cada figura o tabla debe estar referenciada en el texto y alineada con tu análisis.
+
+
 ---
 
 ## 👨‍🏫 Autor del curso
